@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">StaySave</string>
     <string name="action_settings">Settings</string>
+
+  <!--etra strings-->
+  <string name="welcome_text">WELCOME</string>
+  <string name="email_text">Email</string>
+  <string name="password_text">Password</string>
+  <string name="login_text">login</string>
+  <string name="forgot_password_text">forgot password</string>
+  <string name="sign_up_text">SIGN UP</string>
 </resources>
